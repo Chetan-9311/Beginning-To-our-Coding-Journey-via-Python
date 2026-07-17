@@ -1,0 +1,4 @@
+name=("Chanakya")
+print(len(name))
+
+#written on 17th july 2026 11:49 PM
