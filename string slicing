@@ -1,0 +1,5 @@
+name=("Chanakya")
+developer=name[0:4]
+print(developer)
+
+#written on 17 july 2026 11 57 pm
