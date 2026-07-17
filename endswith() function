@@ -1,0 +1,4 @@
+name=("Chanakya")
+print(name.endswith("ya"))
+
+#True or False?
