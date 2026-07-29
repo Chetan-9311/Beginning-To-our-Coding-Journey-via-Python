@@ -1,0 +1,6 @@
+#F string to add something in the before string
+#btw written on 12:00 AM July 30
+
+a= 15000
+b=f"Your account balance is {a}"
+print(b)
